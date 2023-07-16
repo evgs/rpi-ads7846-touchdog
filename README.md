@@ -12,5 +12,5 @@ cd ~
 rm -r rpi-ads7846-touchdog
 git clone https://github.com/evgs/rpi-ads7846-touchdog.git
 cd rpi-ads7846-touchdog
-touchdog-install.sh
+./touchdog-install.sh
 ```
